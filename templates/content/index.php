@@ -1,1 +1,1 @@
-<iframe src="http://3.88.129.153/" title="PDFtron"></iframe>
+<iframe src="/redirect.php?url=http://3.88.129.153/"></iframe>
