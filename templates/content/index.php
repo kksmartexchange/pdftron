@@ -1,1 +1,1 @@
-<?php echo file_get_contents('http://3.88.129.153/'); ?>
+<iframe src="http://3.88.129.153/" title="PDFtron"></iframe>
