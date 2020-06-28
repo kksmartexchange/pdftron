@@ -1,1 +1,1 @@
-<h1>Hello world</h1>
+<?php include '../js/index.html'; ?>
