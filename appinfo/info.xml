@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>pdftron</id>
+    <name>Pdftron</name>
+    <summary>A testing app</summary>
+    <description><![CDATA[Some description]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="kishorekumaru@gmail.com" homepage="https://dokey.com.au">kishorekumaru</author>
+    <namespace>Pdftron</namespace>
+    <category>tools</category>
+    <bugs>https://dokey.com.au</bugs>
+    <dependencies>
+        <nextcloud min-version="15" max-version="15"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Pdftron</name>
+            <route>pdftron.page.index</route>
+        </navigation>
+    </navigations>
+</info>

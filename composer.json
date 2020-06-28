@@ -1,0 +1,15 @@
+{
+    "name": "Pdftron",
+    "description": "A testing app",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "kishorekumaru"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
